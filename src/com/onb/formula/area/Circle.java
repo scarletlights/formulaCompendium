@@ -1,5 +1,5 @@
 package com.onb.formula.area;
 
-public class Circle {
-
+class Circle {
+	private static final double pi = 3.1415169
 }
