@@ -14,5 +14,7 @@ class Circle {
 
 	private static final double d = 20;
 	
-
+	public double getRadius(){
+		return this.r;
+	}
 }
