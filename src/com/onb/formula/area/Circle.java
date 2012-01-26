@@ -11,6 +11,10 @@ class Circle {
 	private void setDiameter(double diameter) {
 		this.diameter = diameter;
 	}
+	
+	private double getDiameter() {
+		return this.diameter;
+	}
 
 	private static final double d = 20;
 	
